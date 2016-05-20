@@ -803,7 +803,6 @@
      </layout>
      <zorder>scrollArea</zorder>
      <zorder>frameCoinControl</zorder>
-     <zorder></zorder>
     </widget>
    </item>
   </layout>
